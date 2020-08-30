@@ -1,0 +1,14 @@
+dwh.cfg
+.ipynb_checkpoints
+
+venv
+venv/
+venv/*
+
+.vscode
+.vscode/
+.vscode/*
+
+data
+data/
+data/*
