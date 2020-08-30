@@ -11,11 +11,11 @@ In that given Project they want us to setup a Notification Pipeline.
 * [Tables which gets create out of the given datasets](#new_tables)
 * [About the Code](#code_info)
 * [Write Up](#write_up)
-    *[What's the goal?](#goal)
-    *[Technologie Choices](#technology)
-    *[Process](#process)
-    *[Update Frequency](#update_frequency)
-    *[Solving Problems](#solving_problems)
+    * [What's the goal?](#goal)
+    * [Technologie Choices](#technology)
+    * [Process](#process)
+    * [Update Frequency](#update_frequency)
+    * [Solving Problems](#solving_problems)
 
 
 <a id="about"></a>
